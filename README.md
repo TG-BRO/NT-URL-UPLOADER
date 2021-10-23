@@ -12,7 +12,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jobin888/TG-URL-Uploader/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jobin888/NT-URL-UPLOADER/tree/master)
 
 **Watch our Video for Create own Bot** - 👉 https://youtu.be/iKlE3lWdm14
 
